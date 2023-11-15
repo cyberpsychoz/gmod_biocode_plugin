@@ -1,3 +1,4 @@
+-- PUT IN WEAPONS
 ITEM.name = "Импульсная винтовка AR2"
 ITEM.baseDescription = "Самая сексуальная винтовка в мире." -- Основное описание
 ITEM.description = ITEM.baseDescription .. "\nНомер: 00000 \nБиокодировано: ❌"
