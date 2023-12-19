@@ -1,2 +1,2 @@
-# gmod_biocode_plugin
-Simple AR2 biocode plugin.
+# AR2 Biocode plugin
+# IN PROGRESS...
